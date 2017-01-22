@@ -21,6 +21,7 @@ import java.util.concurrent.Callable;
 import org.springframework.util.concurrent.ListenableFuture;
 
 /**
+ * 异步监听任务执行器
  * Extension of the {@link AsyncTaskExecutor} interface, adding the capability to submit
  * tasks for {@link ListenableFuture}s.
  *

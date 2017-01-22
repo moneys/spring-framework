@@ -26,6 +26,7 @@ import org.springframework.core.annotation.AnnotationAttributes;
 import org.springframework.util.ObjectUtils;
 
 /**
+ * 递归注解数组访问器
  * @author Chris Beams
  * @author Juergen Hoeller
  * @since 3.1.1

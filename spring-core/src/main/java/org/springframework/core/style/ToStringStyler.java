@@ -17,6 +17,7 @@
 package org.springframework.core.style;
 
 /**
+ * 描述样式接口
  * A strategy interface for pretty-printing {@code toString()} methods.
  * Encapsulates the print algorithms; some other object such as a builder
  * should provide the workflow.

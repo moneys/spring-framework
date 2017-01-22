@@ -26,6 +26,7 @@ import org.springframework.core.type.classreading.MetadataReader;
 import org.springframework.core.type.classreading.MetadataReaderFactory;
 
 /**
+ * 抽象类型层次遍历过滤器
  * Type filter that is aware of traversing over hierarchy.
  *
  * <p>This filter is useful when matching needs to be made based on potentially the

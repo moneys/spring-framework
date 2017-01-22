@@ -29,6 +29,7 @@ import org.springframework.util.MultiValueMap;
 import org.springframework.util.ObjectUtils;
 
 /**
+ * 注解属性访问器
  * ASM visitor which looks for the annotations defined on a class or method, including
  * tracking meta-annotations.
  *

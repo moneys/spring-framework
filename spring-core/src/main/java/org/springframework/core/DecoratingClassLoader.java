@@ -23,6 +23,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import org.springframework.util.Assert;
 
 /**
+ * 装饰类加载器
  * Base class for decorating ClassLoaders such as {@link OverridingClassLoader}
  * and {@link org.springframework.instrument.classloading.ShadowingClassLoader},
  * providing common handling of excluded packages and classes.

@@ -20,6 +20,7 @@ import org.springframework.core.annotation.AnnotationAttributes;
 import org.springframework.core.annotation.AnnotationUtils;
 
 /**
+ * 递归注解属性访问器
  * @author Chris Beams
  * @author Juergen Hoeller
  * @since 3.1.1

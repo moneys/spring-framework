@@ -24,6 +24,7 @@ import org.springframework.core.serializer.Deserializer;
 import org.springframework.util.Assert;
 
 /**
+ * 反序列化转换器
  * A {@link Converter} that delegates to a
  * {@link org.springframework.core.serializer.Deserializer}
  * to convert data in a byte array to an object.

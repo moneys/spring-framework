@@ -17,6 +17,7 @@
 package org.springframework.core;
 
 /**
+ * 常量的异常
  * Exception thrown when the {@link Constants} class is asked for
  * an invalid constant name.
  *

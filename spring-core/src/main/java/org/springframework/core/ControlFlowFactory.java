@@ -22,6 +22,7 @@ import java.io.StringWriter;
 import org.springframework.util.Assert;
 
 /**
+ * 抽象的控制流工厂
  * Static factory to conceal the automatic choice of the ControlFlow
  * implementation class.
  *

@@ -17,6 +17,7 @@
 package org.springframework.core;
 
 /**
+ * 错误编码接口
  * Interface that can be implemented by exceptions etc that are error coded.
  * The error code is a String, rather than a number, so it can be given
  * user-readable values, such as "object.failureDescription".

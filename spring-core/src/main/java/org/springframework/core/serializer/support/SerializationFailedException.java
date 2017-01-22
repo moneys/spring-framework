@@ -19,6 +19,7 @@ package org.springframework.core.serializer.support;
 import org.springframework.core.NestedRuntimeException;
 
 /**
+ * 序列化失败异常
  * Wrapper for the native IOException (or similar) when a
  * {@link org.springframework.core.serializer.Serializer} or
  * {@link org.springframework.core.serializer.Deserializer} failed.

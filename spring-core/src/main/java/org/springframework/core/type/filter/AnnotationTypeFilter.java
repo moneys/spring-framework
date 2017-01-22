@@ -25,6 +25,7 @@ import org.springframework.core.type.classreading.MetadataReader;
 import org.springframework.util.ClassUtils;
 
 /**
+ * 注解属性过滤器
  * A simple filter which matches classes with a given annotation,
  * checking inherited annotations as well.
  *

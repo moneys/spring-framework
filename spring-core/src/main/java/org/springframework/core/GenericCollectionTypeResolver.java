@@ -22,6 +22,7 @@ import java.util.Collection;
 import java.util.Map;
 
 /**
+ * 泛型集合类型解析器
  * Helper class for determining element types of collections and maps.
  *
  * <p>Mainly intended for usage within the framework, determining the

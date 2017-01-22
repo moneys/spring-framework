@@ -17,6 +17,7 @@
 package org.springframework.core;
 
 /**
+ * 基础设施代理
  * Interface to be implemented by transparent resource proxies that need to be
  * considered as equal to the underlying resource, for example for consistent
  * lookup key comparisons. Note that this interface does imply such special

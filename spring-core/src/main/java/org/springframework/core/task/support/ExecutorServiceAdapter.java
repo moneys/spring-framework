@@ -24,6 +24,7 @@ import org.springframework.core.task.TaskExecutor;
 import org.springframework.util.Assert;
 
 /**
+ * 执行器服务适配器
  * Adapter that takes a Spring {@link org.springframework.core.task.TaskExecutor})
  * and exposes a full {@code java.util.concurrent.ExecutorService} for it.
  *

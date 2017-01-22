@@ -35,6 +35,7 @@ import org.springframework.util.ConcurrentReferenceHashMap;
 import org.springframework.util.ReflectionUtils;
 
 /**
+ * 序列化类型包装器
  * Internal utility class that can be used to obtain wrapped {@link Serializable} variants
  * of {@link java.lang.reflect.Type}s.
  *

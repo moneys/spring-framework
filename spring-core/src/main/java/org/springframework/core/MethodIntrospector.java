@@ -28,6 +28,7 @@ import org.springframework.util.ClassUtils;
 import org.springframework.util.ReflectionUtils;
 
 /**
+ * 内部类方法
  * Defines the algorithm for searching for metadata-associated methods exhaustively
  * including interfaces and parent classes while also dealing with parameterized methods
  * as well as common scenarios encountered with interface and class-based proxies.

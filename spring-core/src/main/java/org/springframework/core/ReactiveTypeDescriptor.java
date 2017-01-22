@@ -20,6 +20,7 @@ import java.util.function.Supplier;
 import org.springframework.util.Assert;
 
 /**
+ * 响应式类型描述
  * Descriptor for a reactive type with information its stream semantics, i.e.
  * how many values it can produce.
  *

@@ -17,6 +17,7 @@
 package org.springframework.core;
 
 /**
+ * 装饰器代理
  * Interface to be implemented by decorating proxies, in particular Spring AOP
  * proxies but potentially also custom proxies with decorator semantics.
  *

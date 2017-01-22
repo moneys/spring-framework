@@ -24,6 +24,7 @@ import java.util.List;
 import org.springframework.util.ObjectUtils;
 
 /**
+ * Ordered接口比较器
  * {@link Comparator} implementation for {@link Ordered} objects, sorting
  * by order value ascending, respectively by priority descending.
  *

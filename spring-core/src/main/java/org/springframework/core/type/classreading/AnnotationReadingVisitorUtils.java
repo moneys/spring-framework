@@ -30,6 +30,7 @@ import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.ObjectUtils;
 
 /**
+ * 注解访问器工具
  * Internal utility class used when reading annotations via ASM.
  *
  * @author Juergen Hoeller

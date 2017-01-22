@@ -19,6 +19,7 @@ package org.springframework.core;
 import java.io.IOException;
 
 /**
+ * 嵌套IO异常
  * Subclass of {@link IOException} that properly handles a root cause,
  * exposing the root cause just like NestedChecked/RuntimeException does.
  *

@@ -17,6 +17,7 @@
 package org.springframework.core.style;
 
 /**
+ * 抽象的描述样式工具
  * Simple utility class to allow for convenient access to value
  * styling logic, mainly to support descriptive logging messages.
  *

@@ -19,6 +19,7 @@ package org.springframework.core.type.filter;
 import org.springframework.util.ClassUtils;
 
 /**
+ * 分配式类型过滤器
  * A simple filter which matches classes that are assignable to a given type.
  *
  * @author Rod Johnson

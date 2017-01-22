@@ -21,6 +21,7 @@ import java.io.Serializable;
 import org.springframework.util.Assert;
 
 /**
+ * 异步任务执行器实现
  * {@link TaskExecutor} implementation that executes each task <i>synchronously</i>
  * in the calling thread.
  *

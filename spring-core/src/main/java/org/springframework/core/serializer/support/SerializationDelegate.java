@@ -27,6 +27,7 @@ import org.springframework.core.serializer.Serializer;
 import org.springframework.util.Assert;
 
 /**
+ * 序列化委托
  * A convenient delegate with pre-arranged configuration state for common
  * serialization needs. Implements {@link Serializer} and {@link Deserializer}
  * itself, so can also be passed into such more specific callback methods.

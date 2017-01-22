@@ -17,6 +17,7 @@
 package org.springframework.core;
 
 /**
+ * 属性访问器接口
  * Interface defining a generic contract for attaching and accessing metadata
  * to/from arbitrary objects.
  *

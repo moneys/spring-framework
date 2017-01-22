@@ -24,6 +24,7 @@ import org.springframework.core.io.ResourceLoader;
 import org.springframework.util.ClassUtils;
 
 /**
+ * 简单的元数据读取工厂
  * Simple implementation of the {@link MetadataReaderFactory} interface,
  * creating a new ASM {@link org.springframework.asm.ClassReader} for every request.
  *

@@ -36,6 +36,7 @@ import static org.springframework.core.ReactiveTypeDescriptor.singleOptionalValu
 import static org.springframework.core.ReactiveTypeDescriptor.singleRequiredValue;
 
 /**
+ * 响应式适配器注册表
  * A registry of adapters to adapt a Reactive Streams {@link Publisher} to/from
  * various async/reactive types such as {@code CompletableFuture}, RxJava
  * {@code Observable}, and others.

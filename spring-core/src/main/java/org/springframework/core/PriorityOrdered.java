@@ -17,6 +17,7 @@
 package org.springframework.core;
 
 /**
+ * 优先级顺序接口
  * Extension of the {@link Ordered} interface, expressing a <em>priority</em>
  * ordering: order values expressed by {@code PriorityOrdered} objects
  * always apply before same order values expressed by <em>plain</em>

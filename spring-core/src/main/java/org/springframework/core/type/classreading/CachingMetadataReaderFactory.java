@@ -26,6 +26,7 @@ import org.springframework.core.io.Resource;
 import org.springframework.core.io.ResourceLoader;
 
 /**
+ * 缓存属性读取器工厂
  * Caching implementation of the {@link MetadataReaderFactory} interface,
  * caching a {@link MetadataReader} instance per Spring {@link Resource} handle
  * (i.e. per ".class" file).

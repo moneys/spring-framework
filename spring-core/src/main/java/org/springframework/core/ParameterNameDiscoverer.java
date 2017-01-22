@@ -20,6 +20,7 @@ import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
 
 /**
+ * 参数命名查找
  * Interface to discover parameter names for methods and constructors.
  *
  * <p>Parameter name discovery is not always possible, but various strategies are

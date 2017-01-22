@@ -17,6 +17,7 @@
 package org.springframework.core;
 
 /**
+ * 控制流接口
  * Interface to be implemented by objects that can return information about
  * the current call stack. Useful in AOP (as in AspectJ cflow concept)
  * but not AOP-specific.

@@ -22,6 +22,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
+ * 有优先级的参数命名查找
  * ParameterNameDiscoverer implementation that tries several ParameterNameDiscoverers
  * in succession. Those added first in the {@code addDiscoverer} method have
  * highest priority. If one returns {@code null}, the next will be tried.

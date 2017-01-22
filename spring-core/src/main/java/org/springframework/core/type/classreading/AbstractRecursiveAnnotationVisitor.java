@@ -28,6 +28,7 @@ import org.springframework.core.annotation.AnnotationAttributes;
 import org.springframework.util.ReflectionUtils;
 
 /**
+ * 抽象的递归注解访问器
  * @author Chris Beams
  * @author Juergen Hoeller
  * @author Phillip Webb

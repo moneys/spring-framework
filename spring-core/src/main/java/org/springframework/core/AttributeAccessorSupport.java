@@ -23,6 +23,7 @@ import java.util.Map;
 import org.springframework.util.Assert;
 
 /**
+ * 属性访问器支持
  * Support class for {@link AttributeAccessor AttributeAccessors}, providing
  * a base implementation of all methods. To be extended by subclasses.
  *

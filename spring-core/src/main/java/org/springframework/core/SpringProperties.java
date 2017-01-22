@@ -25,6 +25,7 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
 /**
+ * Spring属性
  * Static holder for local Spring properties, i.e. defined at the Spring library level.
  *
  * <p>Reads a {@code spring.properties} file from the root of the Spring library classpath,

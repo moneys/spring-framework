@@ -22,6 +22,7 @@ import java.util.LinkedHashSet;
 import org.springframework.util.Assert;
 
 /**
+ * 标准类元数据
  * {@link ClassMetadata} implementation that uses standard reflection
  * to introspect a given {@code Class}.
  *

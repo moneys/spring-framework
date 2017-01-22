@@ -29,6 +29,7 @@ import org.springframework.util.Assert;
 import org.springframework.util.ConcurrentReferenceHashMap;
 
 /**
+ * 泛型类型解析器
  * Helper class for resolving generic types against type variables.
  *
  * <p>Mainly intended for usage within the framework, resolving method

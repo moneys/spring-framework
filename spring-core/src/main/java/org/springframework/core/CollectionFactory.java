@@ -42,6 +42,7 @@ import org.springframework.util.MultiValueMap;
 import org.springframework.util.ReflectionUtils;
 
 /**
+ * 集合工厂
  * Factory for collections that is aware of Java 5, Java 6, and Spring collection types.
  *
  * <p>Mainly for internal use within the framework.

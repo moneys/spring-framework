@@ -23,6 +23,7 @@ import org.springframework.core.type.classreading.MetadataReader;
 import org.springframework.core.type.classreading.MetadataReaderFactory;
 
 /**
+ * 抽象类测试类型过滤器
  * Type filter that exposes a
  * {@link org.springframework.core.type.ClassMetadata} object
  * to subclasses, for class testing purposes.

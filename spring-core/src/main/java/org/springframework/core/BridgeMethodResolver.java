@@ -26,6 +26,7 @@ import org.springframework.util.ClassUtils;
 import org.springframework.util.ReflectionUtils;
 
 /**
+ * 连接方法解析器
  * Helper for resolving synthetic {@link Method#isBridge bridge Methods} to the
  * {@link Method} being bridged.
  *

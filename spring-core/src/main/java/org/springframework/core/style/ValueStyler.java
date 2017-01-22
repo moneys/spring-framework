@@ -17,6 +17,7 @@
 package org.springframework.core.style;
 
 /**
+ * 值样式 接口
  * Strategy that encapsulates value String styling algorithms
  * according to Spring conventions.
  *

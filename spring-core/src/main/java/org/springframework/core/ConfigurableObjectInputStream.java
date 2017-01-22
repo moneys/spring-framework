@@ -25,6 +25,7 @@ import java.io.ObjectStreamClass;
 import org.springframework.util.ClassUtils;
 
 /**
+ * 可配置对象输入流
  * Special ObjectInputStream subclass that resolves class names
  * against a specific ClassLoader. Serves as base class for
  * {@link org.springframework.remoting.rmi.CodebaseAwareObjectInputStream}.

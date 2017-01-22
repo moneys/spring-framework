@@ -20,6 +20,7 @@ import java.io.IOException;
 import java.io.OutputStream;
 
 /**
+ * 序列化接口
  * A strategy interface for streaming an object to an OutputStream.
  *
  * @author Gary Russell

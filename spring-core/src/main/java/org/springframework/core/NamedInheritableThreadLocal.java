@@ -19,6 +19,7 @@ package org.springframework.core;
 import org.springframework.util.Assert;
 
 /**
+ * 可继承的本地线程
  * {@link InheritableThreadLocal} subclass that exposes a specified name
  * as {@link #toString()} result (allowing for introspection).
  *

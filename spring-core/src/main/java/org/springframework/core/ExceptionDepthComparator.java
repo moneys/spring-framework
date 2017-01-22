@@ -25,6 +25,7 @@ import java.util.List;
 import org.springframework.util.Assert;
 
 /**
+ * 异常深度比较器
  * Comparator capable of sorting exceptions based on their depth from the thrown exception type.
  *
  * @author Juergen Hoeller

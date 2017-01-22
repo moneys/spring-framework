@@ -17,6 +17,7 @@
 package org.springframework.core;
 
 /**
+ * 可解析类型提供器
  * Any object can implement this interface to provide its actual {@link ResolvableType}.
  *
  * <p>Such information is very useful when figuring out if the instance matches a generic

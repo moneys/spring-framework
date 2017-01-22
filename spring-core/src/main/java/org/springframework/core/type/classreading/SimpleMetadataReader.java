@@ -27,6 +27,7 @@ import org.springframework.core.type.AnnotationMetadata;
 import org.springframework.core.type.ClassMetadata;
 
 /**
+ * 简单的元数据读取器
  * {@link MetadataReader} implementation based on an ASM
  * {@link org.springframework.asm.ClassReader}.
  *

@@ -22,6 +22,7 @@ import java.io.InputStream;
 import org.springframework.util.FileCopyUtils;
 
 /**
+ * 重载类加载器
  * {@code ClassLoader} that does <i>not</i> always delegate to the parent loader
  * as normal class loaders do. This enables, for example, instrumentation to be
  * forced in the overriding ClassLoader, or a "throwaway" class loading behavior

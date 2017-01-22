@@ -30,6 +30,7 @@ import org.springframework.core.type.ClassMetadata;
 import org.springframework.util.ClassUtils;
 
 /**
+ * 类属性读取访问器
  * ASM class visitor which looks only for the class name and implemented types,
  * exposing them through the {@link org.springframework.core.type.ClassMetadata}
  * interface.

@@ -20,6 +20,7 @@ import java.util.concurrent.Callable;
 import java.util.concurrent.Future;
 
 /**
+ * 异步任务执行器
  * Extended interface for asynchronous {@link TaskExecutor} implementations,
  * offering an overloaded {@link #execute(Runnable, long)} variant with a start
  * timeout parameter as well support for {@link java.util.concurrent.Callable}.

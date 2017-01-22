@@ -26,6 +26,7 @@ import org.springframework.core.annotation.AnnotatedElementUtils;
 import org.springframework.util.MultiValueMap;
 
 /**
+ * 标准注解元数据
  * {@link AnnotationMetadata} implementation that uses standard reflection
  * to introspect a given {@link Class}.
  *

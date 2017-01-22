@@ -17,6 +17,7 @@
 package org.springframework.core;
 
 /**
+ * 嵌套的异常检查
  * Handy class for wrapping checked {@code Exceptions} with a root cause.
  *
  * <p>This class is {@code abstract} to force the programmer to extend

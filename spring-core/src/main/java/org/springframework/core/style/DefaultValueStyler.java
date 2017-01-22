@@ -27,6 +27,7 @@ import org.springframework.util.ClassUtils;
 import org.springframework.util.ObjectUtils;
 
 /**
+ * 默认的值样式接口
  * Converts objects to String form, generally for debugging purposes,
  * using Spring's {@code toString} styling conventions.
  *

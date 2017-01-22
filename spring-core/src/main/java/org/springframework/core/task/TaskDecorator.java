@@ -17,6 +17,7 @@
 package org.springframework.core.task;
 
 /**
+ * 任务装饰器接口
  * A callback interface for a decorator to be applied to any {@link Runnable}
  * about to be executed.
  *

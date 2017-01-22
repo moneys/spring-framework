@@ -33,6 +33,7 @@ import org.springframework.core.type.classreading.MetadataReader;
 import org.springframework.core.type.classreading.MetadataReaderFactory;
 
 /**
+ * AspectJ 类型过滤器
  * Type filter that uses AspectJ type pattern for matching.
  *
  * <p>A critical implementation details of this type filter is that it does not

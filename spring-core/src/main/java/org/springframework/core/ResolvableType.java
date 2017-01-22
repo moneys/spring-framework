@@ -41,6 +41,7 @@ import org.springframework.util.ObjectUtils;
 import org.springframework.util.StringUtils;
 
 /**
+ * 可分解的类型
  * Encapsulates a Java {@link java.lang.reflect.Type}, providing access to
  * {@link #getSuperType() supertypes}, {@link #getInterfaces() interfaces}, and
  * {@link #getGeneric(int...) generic parameters} along with the ability to ultimately

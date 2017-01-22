@@ -17,6 +17,7 @@
 package org.springframework.core;
 
 /**
+ * Spring版本
  * Class that exposes the Spring version. Fetches the
  * "Implementation-Version" manifest attribute from the jar file.
  *

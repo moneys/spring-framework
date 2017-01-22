@@ -38,6 +38,7 @@ import org.springframework.asm.Type;
 import org.springframework.util.ClassUtils;
 
 /**
+ * 局部变量参数名查找
  * Implementation of {@link ParameterNameDiscoverer} that uses the LocalVariableTable
  * information in the method attributes to discover parameter names. Returns
  * {@code null} if the class file was compiled without debug information.

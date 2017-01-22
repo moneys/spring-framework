@@ -22,6 +22,7 @@ import java.io.OutputStream;
 import java.io.Serializable;
 
 /**
+ * 默认的序列化器
  * A {@link Serializer} implementation that writes an object to an output stream
  * using Java serialization.
  *

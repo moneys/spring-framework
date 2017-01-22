@@ -25,6 +25,7 @@ import org.springframework.util.Assert;
 import org.springframework.util.MultiValueMap;
 
 /**
+ * 标准方法元数据实现
  * {@link MethodMetadata} implementation that uses standard reflection
  * to introspect a given {@code Method}.
  *

@@ -24,6 +24,7 @@ import org.springframework.core.ConfigurableObjectInputStream;
 import org.springframework.core.NestedIOException;
 
 /**
+ * 默认的反序列化器
  * A default {@link Deserializer} implementation that reads an input stream
  * using Java serialization.
  *

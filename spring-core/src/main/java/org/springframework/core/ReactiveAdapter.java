@@ -24,6 +24,7 @@ import org.reactivestreams.Publisher;
 import org.springframework.util.Assert;
 
 /**
+ * 响应式 适配器
  * Adapt a Reactive Streams {@link Publisher} to and from an async/reactive type
  * such as {@code CompletableFuture}, an RxJava {@code Observable}, etc.
  *

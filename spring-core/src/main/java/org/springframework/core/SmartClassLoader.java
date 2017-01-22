@@ -17,6 +17,7 @@
 package org.springframework.core;
 
 /**
+ * 智能类加载器
  * Interface to be implemented by a reloading-aware ClassLoader
  * (e.g. a Groovy-based ClassLoader). Detected for example by
  * Spring's CGLIB proxy factory for making a caching decision.
