@@ -19,6 +19,7 @@ package org.springframework.util;
 import java.io.ByteArrayOutputStream;
 
 /**
+ * 可调节大小的字节数组输出流
  * An extension of {@link java.io.ByteArrayOutputStream} that:
  * <ul>
  * <li>has public {@link org.springframework.util.ResizableByteArrayOutputStream#grow(int)}

@@ -30,6 +30,7 @@ import org.xml.sax.ext.LexicalHandler;
 import org.springframework.util.Assert;
 
 /**
+ * Stax流处理器
  * SAX {@link org.xml.sax.ContentHandler} and {@link LexicalHandler}
  * that writes to an {@link XMLStreamWriter}.
  *

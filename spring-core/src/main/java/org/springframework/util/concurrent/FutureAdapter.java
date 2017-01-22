@@ -24,6 +24,7 @@ import java.util.concurrent.TimeoutException;
 import org.springframework.util.Assert;
 
 /**
+ * Future对象适配器
  * Abstract class that adapts a {@link Future} parameterized over S into a {@code Future}
  * parameterized over T. All methods are delegated to the adaptee, where {@link #get()}
  * and {@link #get(long, TimeUnit)} call {@link #adapt(Object)} on the adaptee's result.

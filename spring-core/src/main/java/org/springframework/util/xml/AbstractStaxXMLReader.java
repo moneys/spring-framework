@@ -32,6 +32,7 @@ import org.xml.sax.SAXParseException;
 import org.springframework.util.StringUtils;
 
 /**
+ * xml阅读器
  * Abstract base class for SAX {@code XMLReader} implementations that use StAX as a basis.
  *
  * @author Arjen Poutsma

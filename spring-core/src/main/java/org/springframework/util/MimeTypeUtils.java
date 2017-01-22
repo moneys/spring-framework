@@ -31,6 +31,7 @@ import java.util.Random;
 import org.springframework.util.MimeType.SpecificityComparator;
 
 /**
+ * 文件类型工具
  * Miscellaneous {@link MimeType} utility methods.
  *
  * @author Arjen Poutsma

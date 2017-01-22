@@ -22,6 +22,7 @@ import javax.xml.transform.Transformer;
 import org.springframework.util.Assert;
 
 /**
+ * 转换工具类
  * Contains common behavior relating to {@link javax.xml.transform.Transformer Transformers}, and the
  * {@code javax.xml.transform} package in general.
  *

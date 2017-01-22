@@ -32,6 +32,7 @@ import org.xml.sax.Locator;
 import org.xml.sax.ext.LexicalHandler;
 
 /**
+ * 解析事件处理器
  * SAX {@link org.xml.sax.ContentHandler} and {@link LexicalHandler}
  * that writes to a {@link javax.xml.stream.util.XMLEventConsumer}.
  *

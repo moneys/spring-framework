@@ -30,6 +30,7 @@ import javax.xml.stream.events.StartDocument;
 import javax.xml.stream.events.XMLEvent;
 
 /**
+ * xml事件流阅读器
  * Implementation of the {@link javax.xml.stream.XMLStreamReader} interface that wraps a
  * {@link XMLEventReader}. Useful because the StAX {@link javax.xml.stream.XMLInputFactory}
  * allows one to create a event reader from a stream reader, but not vice-versa.

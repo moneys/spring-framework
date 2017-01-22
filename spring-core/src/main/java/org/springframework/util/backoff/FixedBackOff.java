@@ -17,6 +17,7 @@
 package org.springframework.util.backoff;
 
 /**
+ * 固定的定时任务
  * A simple {@link BackOff} implementation that provides a fixed interval
  * between two attempts and a maximum number of retries.
  *

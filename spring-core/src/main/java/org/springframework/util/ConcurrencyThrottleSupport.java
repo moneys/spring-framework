@@ -24,6 +24,7 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
 /**
+ * 并发的节流阀支持
  * Support class for throttling concurrent access to a specific resource.
  *
  * <p>Designed for use as a base class, with the subclass invoking

@@ -45,6 +45,7 @@ import org.springframework.util.Assert;
 import org.springframework.util.StringUtils;
 
 /**
+ * xml事件阅读器
  * SAX {@code XMLReader} that reads from a StAX {@code XMLEventReader}. Consumes {@code XMLEvents} from
  * an {@code XMLEventReader}, and calls the corresponding methods on the SAX callback interfaces.
  *

@@ -21,6 +21,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
 
 /**
+ * 可监听Future任务
  * Extension of {@link FutureTask} that implements {@link ListenableFuture}.
  *
  * @author Arjen Poutsma

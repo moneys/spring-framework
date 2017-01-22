@@ -17,6 +17,7 @@
 package org.springframework.util;
 
 /**
+ * 无效的MimeType异常
  * Exception thrown from {@link MimeTypeUtils#parseMimeType(String)} in case of
  * encountering an invalid content type specification String.
  *

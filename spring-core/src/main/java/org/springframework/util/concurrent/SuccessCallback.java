@@ -17,6 +17,7 @@
 package org.springframework.util.concurrent;
 
 /**
+ * ListenableFuture成功的回调接口
  * Success callback for a {@link ListenableFuture}.
  *
  * @author Sebastien Deleuze

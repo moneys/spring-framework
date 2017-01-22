@@ -17,6 +17,7 @@
 package org.springframework.util.backoff;
 
 /**
+ * 函数式接口
  * Represent a particular back-off execution.
  *
  * <p>Implementations do not need to be thread safe.

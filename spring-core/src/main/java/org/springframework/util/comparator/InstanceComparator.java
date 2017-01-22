@@ -21,6 +21,7 @@ import java.util.Comparator;
 import org.springframework.util.Assert;
 
 /**
+ * 初始化比较器
  * Compares objects based on an arbitrary class order. Allows objects to be sorted based
  * on the types of class that they inherit, for example: this comparator can be used to
  * sort a list {@code Number}s such that {@code Long}s occur before {@code Integer}s.

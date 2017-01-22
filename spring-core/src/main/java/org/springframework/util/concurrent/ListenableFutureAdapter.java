@@ -19,6 +19,7 @@ package org.springframework.util.concurrent;
 import java.util.concurrent.ExecutionException;
 
 /**
+ * 可监听的Future对象适配器
  * Abstract class that adapts a {@link ListenableFuture} parameterized over S into a
  * {@code ListenableFuture} parameterized over T. All methods are delegated to the
  * adaptee, where {@link #get()}, {@link #get(long, java.util.concurrent.TimeUnit)},

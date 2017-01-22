@@ -30,6 +30,7 @@ import org.xml.sax.SAXException;
 import org.xml.sax.ext.LexicalHandler;
 
 /**
+ * sax文档解析处理器
  * Abstract base class for SAX {@code ContentHandler} and {@code LexicalHandler}
  * implementations that use StAX as a basis. All methods delegate to internal template
  * methods, capable of throwing a {@code XMLStreamException}. Additionally, an namespace

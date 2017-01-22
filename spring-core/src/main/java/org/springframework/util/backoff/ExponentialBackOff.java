@@ -19,6 +19,7 @@ package org.springframework.util.backoff;
 import org.springframework.util.Assert;
 
 /**
+ * 定时重试接口实现
  * Implementation of {@link BackOff} that increases the back off period for each
  * retry attempt. When the interval has reached the {@link #setMaxInterval(long)
  * max interval}, it is no longer increased. Stops retrying once the

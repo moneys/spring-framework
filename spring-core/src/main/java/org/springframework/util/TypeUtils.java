@@ -22,6 +22,7 @@ import java.lang.reflect.Type;
 import java.lang.reflect.WildcardType;
 
 /**
+ * 类型工具
  * Utility to work with Java 5 generic type parameters.
  * Mainly for internal use within the framework.
  *

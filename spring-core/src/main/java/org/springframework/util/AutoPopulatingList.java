@@ -26,6 +26,7 @@ import java.util.List;
 import java.util.ListIterator;
 
 /**
+ * 自动填充的列表
  * Simple {@link List} wrapper class that allows for elements to be
  * automatically populated as they are requested. This is particularly
  * useful for data binding to {@link List Lists}, allowing for elements
@@ -86,11 +87,11 @@ public class AutoPopulatingList<E> implements List<E>, Serializable {
 	 * and creates new elements on demand using the supplied {@link ElementFactory}.
 	 */
 	public AutoPopulatingList(List<E> backingList, ElementFactory<E> elementFactory) {
-		Assert.notNull(backingList, "Backing List must not be null");
-		Assert.notNull(elementFactory, "Element factory must not be null");
-		this.backingList = backingList;
-		this.elementFactory = elementFactory;
-	}
+        Assert.notNull(backingList, "Backing List must not be null");
+        Assert.notNull(elementFactory, "Element factory must not be null");
+        this.backingList = backingList;
+        this.elementFactory = elementFactory;
+    }
 
 
 	@Override

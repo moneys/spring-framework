@@ -17,6 +17,7 @@
 package org.springframework.util.concurrent;
 
 /**
+ * 可监听的Future回调
  * Callback mechanism for the outcome, success or failure, from a
  * {@link ListenableFuture}.
  *

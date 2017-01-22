@@ -31,6 +31,7 @@ import java.util.Properties;
 import java.util.Set;
 
 /**
+ * 集合工具类
  * Miscellaneous collection utility methods.
  * Mainly for internal use within the framework.
  *

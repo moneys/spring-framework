@@ -24,6 +24,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 
 /**
+ * 快速字节数组输出流
  * A speedy alternative to {@link java.io.ByteArrayOutputStream}. Note that
  * this variant does <i>not</i> extend {@code ByteArrayOutputStream}, unlike
  * its sibling {@link ResizableByteArrayOutputStream}.

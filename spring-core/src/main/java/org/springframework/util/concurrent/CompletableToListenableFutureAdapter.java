@@ -23,6 +23,7 @@ import java.util.concurrent.TimeoutException;
 import java.util.function.BiFunction;
 
 /**
+ * 可监听的Future接口实现
  * Adapts a {@link CompletableFuture} into a {@link ListenableFuture}.
  *
  * @author Sebastien Deleuze

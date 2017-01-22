@@ -20,6 +20,7 @@ import java.io.Serializable;
 import java.util.Comparator;
 
 /**
+ * 布尔值比较器
  * A Comparator for Boolean objects that can sort either true or false first.
  *
  * @author Keith Donald

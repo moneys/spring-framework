@@ -17,6 +17,7 @@
 package org.springframework.util;
 
 /**
+ * 系统属性工具类
  * Helper class for resolving placeholders in texts. Usually applied to file paths.
  *
  * <p>A text may contain {@code ${...}} placeholders, to be resolved as system properties:

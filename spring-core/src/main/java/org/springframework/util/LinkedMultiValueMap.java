@@ -25,6 +25,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
+ * 一对多值的map
  * Simple implementation of {@link MultiValueMap} that wraps a {@link LinkedHashMap},
  * storing multiple values in a {@link LinkedList}.
  *

@@ -22,6 +22,7 @@ import java.util.Random;
 import java.util.UUID;
 
 /**
+ * 替代jdk的id生成器
  * An {@link IdGenerator} that uses {@link SecureRandom} for the initial seed and
  * {@link Random} thereafter, instead of calling {@link UUID#randomUUID()} every
  * time as {@link org.springframework.util.JdkIdGenerator JdkIdGenerator} does.

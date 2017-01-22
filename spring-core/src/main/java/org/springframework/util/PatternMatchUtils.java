@@ -17,6 +17,7 @@
 package org.springframework.util;
 
 /**
+ * 路径匹配器工具
  * Utility methods for simple pattern matching, in particular for
  * Spring's typical "xxx*", "*xxx" and "*xxx*" pattern styles.
  *

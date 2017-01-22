@@ -31,6 +31,7 @@ import org.springframework.util.Assert;
 import org.springframework.util.StringUtils;
 
 /**
+ * Stax xml流处理器
  * SAX {@code XMLReader} that reads from a StAX {@code XMLStreamReader}. Reads from an
  * {@code XMLStreamReader}, and calls the corresponding methods on the SAX callback interfaces.
  *

@@ -26,6 +26,7 @@ import javax.xml.stream.events.XMLEvent;
 import org.springframework.util.ClassUtils;
 
 /**
+ * xml文档处理器
  * Abstract base class for {@code XMLEventReader}s.
  *
  * @author Arjen Poutsma

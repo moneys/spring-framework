@@ -24,6 +24,7 @@ import org.xml.sax.InputSource;
 import org.xml.sax.XMLReader;
 
 /**
+ * stax源
  * Implementation of the {@code Source} tagging interface for StAX readers. Can be constructed with
  * an {@code XMLEventReader} or an {@code XMLStreamReader}.
  *

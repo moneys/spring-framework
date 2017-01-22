@@ -19,6 +19,7 @@ package org.springframework.util;
 import java.util.Collection;
 
 /**
+ * 异常类型过滤
  * An {@link InstanceFilter} implementation that handles exception types. A type
  * will match against a given candidate if it is assignable to that candidate.
  *

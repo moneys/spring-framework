@@ -25,6 +25,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
+ * 不区分大小写的map
  * {@link LinkedHashMap} variant that stores String keys in a case-insensitive
  * manner, for example for key-based access in a results table.
  *

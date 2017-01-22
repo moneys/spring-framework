@@ -31,6 +31,7 @@ import java.io.StringWriter;
 import java.io.Writer;
 
 /**
+ * 文件拷贝工具
  * Simple utility methods for file and stream copying. All copy methods use a block size
  * of 4096 bytes, and close all affected streams when done. A variation of the copy
  * methods from this class that leave streams open can be found in {@link StreamUtils}.

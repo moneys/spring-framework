@@ -24,6 +24,7 @@ import java.util.List;
 import org.springframework.util.Assert;
 
 /**
+ * 复合比较器
  * A comparator that chains a sequence of one or more Comparators.
  *
  * <p>A compound comparator calls each Comparator in sequence until a single

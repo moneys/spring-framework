@@ -32,6 +32,7 @@ import org.xml.sax.ContentHandler;
 import org.springframework.util.Assert;
 
 /**
+ * Dom工具类
  * Convenience methods for working with the DOM API,
  * in particular for working with DOM Nodes and DOM Elements.
  *

@@ -21,6 +21,7 @@ import java.io.Writer;
 import org.apache.commons.logging.Log;
 
 /**
+ * 通用日志写入器
  * {@code java.io.Writer} adapter for a Commons Logging {@code Log}.
  *
  * @author Juergen Hoeller

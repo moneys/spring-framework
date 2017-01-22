@@ -22,6 +22,7 @@ import java.util.Queue;
 import org.springframework.util.Assert;
 
 /**
+ * 可监听的Future回调注册表
  * Helper class for {@link ListenableFuture} implementations that maintains a
  * of success and failure callbacks and helps to notify them.
  *

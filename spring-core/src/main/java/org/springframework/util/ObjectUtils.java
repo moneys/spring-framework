@@ -23,6 +23,7 @@ import java.util.Map;
 import java.util.Optional;
 
 /**
+ * 对象工具
  * Miscellaneous object utility methods.
  *
  * <p>Mainly for internal use within the framework.

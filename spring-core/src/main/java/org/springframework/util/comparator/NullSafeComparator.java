@@ -21,6 +21,7 @@ import java.util.Comparator;
 import org.springframework.util.Assert;
 
 /**
+ * null值安全的比较器
  * A Comparator that will safely compare nulls to be lower or higher than
  * other objects. Can decorate a given Comparator or work on Comparables.
  *

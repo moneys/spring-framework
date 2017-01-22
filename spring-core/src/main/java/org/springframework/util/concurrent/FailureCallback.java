@@ -17,6 +17,7 @@
 package org.springframework.util.concurrent;
 
 /**
+ * 失败的回调接口
  * Failure callback for a {@link ListenableFuture}.
  *
  * @author Sebastien Deleuze

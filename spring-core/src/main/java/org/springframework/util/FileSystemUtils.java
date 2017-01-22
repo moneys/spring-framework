@@ -20,6 +20,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
+ * 文件系统工具
  * Utility methods for working with the file system.
  *
  * @author Rob Harrop

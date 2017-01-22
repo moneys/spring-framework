@@ -23,6 +23,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 
 /**
+ * 序列化工具
  * Static utilities for serialization and deserialization.
  *
  * @author Dave Syer

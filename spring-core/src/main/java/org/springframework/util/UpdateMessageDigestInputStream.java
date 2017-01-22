@@ -21,6 +21,7 @@ import java.io.InputStream;
 import java.security.MessageDigest;
 
 /**
+ * 更新消息摘要输入流
  * Extension of {@link java.io.InputStream} that allows for optimized
  * implementations of message digesting.
  *

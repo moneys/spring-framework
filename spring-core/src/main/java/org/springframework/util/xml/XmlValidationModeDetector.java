@@ -25,6 +25,7 @@ import java.io.InputStreamReader;
 import org.springframework.util.StringUtils;
 
 /**
+ * xml验证检测器
  * Detects whether an XML stream is using DTD- or XSD-based validation.
  *
  * @author Rob Harrop

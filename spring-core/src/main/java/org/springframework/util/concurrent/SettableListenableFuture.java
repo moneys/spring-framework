@@ -26,6 +26,7 @@ import org.springframework.util.Assert;
 import org.springframework.util.ReflectionUtils;
 
 /**
+ * 可设置可监听的Future对象
  * A {@link org.springframework.util.concurrent.ListenableFuture ListenableFuture}
  * whose value can be set via {@link #set(Object)} or
  * {@link #setException(Throwable)}. It may also be cancelled.

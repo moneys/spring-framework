@@ -32,6 +32,7 @@ import javax.xml.stream.events.StartElement;
 import org.springframework.util.Assert;
 
 /**
+ * xml事件流写入器
  * Implementation of the {@link javax.xml.stream.XMLStreamWriter} interface
  * that wraps an {@link XMLEventWriter}.
  *

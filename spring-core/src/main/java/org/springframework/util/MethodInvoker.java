@@ -21,6 +21,7 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
 
 /**
+ * 方法调用器
  * Helper class that allows for specifying a method to invoke in a declarative
  * fashion, be it static or non-static.
  *

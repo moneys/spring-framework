@@ -24,6 +24,7 @@ import javax.xml.stream.events.XMLEvent;
 import org.springframework.util.Assert;
 
 /**
+ * 基于xml处理器的列表
  * Implementation of {@code XMLEventReader} based on a list of {@link XMLEvent}s.
  *
  * @author Arjen Poutsma

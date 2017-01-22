@@ -32,6 +32,7 @@ import java.util.StringTokenizer;
 import java.util.TimeZone;
 
 /**
+ * 字符串工具类
  * Miscellaneous {@link String} utility methods.
  *
  * <p>Mainly for internal use within the framework; consider

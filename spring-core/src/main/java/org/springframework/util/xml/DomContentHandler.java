@@ -32,6 +32,7 @@ import org.xml.sax.SAXException;
 import org.springframework.util.Assert;
 
 /**
+ * DOM内容处理器
  * SAX {@code ContentHandler} that transforms callback calls to DOM {@code Node}s.
  *
  * @author Arjen Poutsma

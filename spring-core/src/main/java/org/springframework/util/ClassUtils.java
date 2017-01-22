@@ -34,6 +34,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
+ * 类相关工具
  * Miscellaneous class utility methods.
  * Mainly for internal use within the framework.
  *

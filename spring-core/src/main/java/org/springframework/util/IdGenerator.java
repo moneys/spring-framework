@@ -19,6 +19,7 @@ package org.springframework.util;
 import java.util.UUID;
 
 /**
+ * id生成器
  * Contract for generating universally unique identifiers {@link UUID (UUIDs)}.
  *
  * @author Rossen Stoyanchev

@@ -26,6 +26,7 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
 /**
+ * 弱引用监控
  * Track references to arbitrary objects using proxy and weak references. To
  * monitor a handle, one should call {@link #monitor(Object, ReleaseListener)},
  * with the given handle object usually being a holder that uses the target

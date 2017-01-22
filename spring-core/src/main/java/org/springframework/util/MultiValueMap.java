@@ -20,6 +20,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
+ * 一对多值map接口
  * Extension of the {@code Map} interface that stores multiple values.
  *
  * @author Arjen Poutsma

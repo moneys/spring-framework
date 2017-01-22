@@ -21,6 +21,7 @@ import java.util.Map;
 import java.util.function.Supplier;
 
 /**
+ * 断言
  * Assertion utility class that assists in validating arguments.
  *
  * <p>Useful for identifying programmer errors early and clearly at runtime.

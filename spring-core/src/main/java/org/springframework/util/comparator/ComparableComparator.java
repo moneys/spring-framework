@@ -19,6 +19,7 @@ package org.springframework.util.comparator;
 import java.util.Comparator;
 
 /**
+ * Comparable 接口比较器
  * Comparator that adapts Comparables to the Comparator interface.
  * Mainly for internal use in other Comparators, when supposed
  * to work on Comparables.

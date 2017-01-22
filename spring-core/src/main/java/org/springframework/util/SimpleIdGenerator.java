@@ -20,6 +20,7 @@ import java.util.UUID;
 import java.util.concurrent.atomic.AtomicLong;
 
 /**
+ * 简单的id生成器
  * A simple {@link IdGenerator} that starts at 1 and increments by 1 with each call.
  *
  * @author Rossen Stoyanchev

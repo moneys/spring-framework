@@ -24,6 +24,7 @@ import org.xml.sax.ContentHandler;
 import org.xml.sax.ext.LexicalHandler;
 
 /**
+ * stax解析接口
  * Implementation of the {@code Result} tagging interface for StAX writers. Can be constructed with
  * an {@code XMLEventConsumer} or an {@code XMLStreamWriter}.
  *

@@ -19,6 +19,7 @@ package org.springframework.util.concurrent;
 import java.util.concurrent.Future;
 
 /**
+ * 可监听的Future接口
  * Extend {@link Future} with the capability to accept completion callbacks.
  * If the future has completed when the callback is added, the callback is
  * triggered immediately.

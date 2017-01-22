@@ -26,6 +26,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
+ * 数字工具
  * Miscellaneous utility methods for number conversion and parsing.
  * <p>Mainly for internal use within the framework; consider Apache's
  * Commons Lang for a more comprehensive suite of number utilities.

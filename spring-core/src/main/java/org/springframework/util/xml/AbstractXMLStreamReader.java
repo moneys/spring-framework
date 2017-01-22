@@ -24,6 +24,7 @@ import javax.xml.stream.XMLStreamReader;
 import org.springframework.util.Assert;
 
 /**
+ * xml文档流阅读器
  * Abstract base class for {@code XMLStreamReader}s.
  *
  * @author Arjen Poutsma

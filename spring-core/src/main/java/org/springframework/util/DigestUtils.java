@@ -22,6 +22,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
+ * md5工具
  * Miscellaneous methods for calculating digests.
  *
  * <p>Mainly for internal use within the framework; consider

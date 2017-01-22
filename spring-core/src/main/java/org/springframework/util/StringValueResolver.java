@@ -17,6 +17,7 @@
 package org.springframework.util;
 
 /**
+ * 字符串值解析器接口
  * Simple strategy interface for resolving a String value.
  * Used by {@link org.springframework.beans.factory.config.ConfigurableBeanFactory}.
  *

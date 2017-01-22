@@ -24,6 +24,7 @@ import java.io.Writer;
 import java.util.Properties;
 
 /**
+ * 默认的属性持久化实现
  * Default implementation of the {@link PropertiesPersister} interface.
  * Follows the native parsing of {@code java.util.Properties}.
  *

@@ -22,6 +22,7 @@ import java.util.Comparator;
 import org.springframework.util.Assert;
 
 /**
+ * 可逆的比较器
  * A decorator for a comparator, with an "ascending" flag denoting
  * whether comparison results should be treated in forward (standard
  * ascending) order or flipped for reverse (descending) order.

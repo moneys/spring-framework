@@ -17,6 +17,7 @@
 package org.springframework.util.backoff;
 
 /**
+ * 超时重试接口
  * Provide a {@link BackOffExecution} that indicates the rate at which
  * an operation should be retried.
  *

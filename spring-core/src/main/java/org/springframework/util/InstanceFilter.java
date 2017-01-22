@@ -20,6 +20,7 @@ import java.util.Collection;
 import java.util.Collections;
 
 /**
+ * 实例过滤器
  * A simple instance filter that checks if a given instance match based on
  * a collection of includes and excludes element.
  *

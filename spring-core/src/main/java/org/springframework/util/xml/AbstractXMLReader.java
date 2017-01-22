@@ -26,6 +26,7 @@ import org.xml.sax.XMLReader;
 import org.xml.sax.ext.LexicalHandler;
 
 /**
+ * xml文档阅读器接口
  * Abstract base class for SAX {@code XMLReader} implementations.
  * Contains properties as defined in {@link XMLReader}, and does not recognize any features.
  *
