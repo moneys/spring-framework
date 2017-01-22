@@ -17,6 +17,7 @@
 package org.springframework.core.io;
 
 /**
+ * 协议解析器
  * A resolution strategy for protocol-specific resource handles.
  *
  * <p>Used as an SPI for {@link DefaultResourceLoader}, allowing for

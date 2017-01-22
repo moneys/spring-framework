@@ -17,6 +17,7 @@
 package org.springframework.core.env;
 
 /**
+ * 属性源属性解析器
  * {@link PropertyResolver} implementation that resolves property values against
  * an underlying set of {@link PropertySources}.
  *

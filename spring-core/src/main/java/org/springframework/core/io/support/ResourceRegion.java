@@ -20,6 +20,7 @@ import org.springframework.core.io.Resource;
 import org.springframework.util.Assert;
 
 /**
+ * 资源地区
  * Region of a {@link Resource} implementation, materialized by a {@code position}
  * within the {@link Resource} and a byte {@code count} for the length of that region.
  *

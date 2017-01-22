@@ -28,6 +28,7 @@ import org.springframework.util.Assert;
 import org.springframework.util.ObjectUtils;
 
 /**
+ * 编码资源
  * Holder that combines a {@link Resource} descriptor with a specific encoding
  * or {@code Charset} to be used for reading from the resource.
  *

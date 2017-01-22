@@ -31,6 +31,7 @@ import org.springframework.util.Assert;
 import org.springframework.util.ResourceUtils;
 
 /**
+ * 抽象资源
  * Convenience base class for {@link Resource} implementations,
  * pre-implementing typical behavior.
  *

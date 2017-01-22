@@ -20,6 +20,7 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 
 /**
+ * 缺少必须属性的异常
  * Exception thrown when required properties are not found.
  *
  * @author Chris Beams

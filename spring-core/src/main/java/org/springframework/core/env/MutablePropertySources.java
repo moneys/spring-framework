@@ -26,6 +26,7 @@ import org.apache.commons.logging.LogFactory;
 import org.springframework.util.StringUtils;
 
 /**
+ * 可变的属性源
  * Default implementation of the {@link PropertySources} interface.
  * Allows manipulation of contained property sources and provides a constructor
  * for copying an existing {@code PropertySources} instance.

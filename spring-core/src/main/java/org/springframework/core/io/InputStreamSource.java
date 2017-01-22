@@ -20,6 +20,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
+ * 输入流资源
  * Simple interface for objects that are sources for an {@link InputStream}.
  *
  * <p>This is the base interface for Spring's more extensive {@link Resource} interface.

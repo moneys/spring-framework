@@ -24,6 +24,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
+ * 命令行参数
  * A simple representation of command line arguments, broken into "option arguments" and
  * "non-option arguments".
  *

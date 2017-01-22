@@ -22,6 +22,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
+ * 只读属性 Map
  * Read-only {@code Map<String, String>} implementation that is backed by system
  * properties or environment variables.
  *

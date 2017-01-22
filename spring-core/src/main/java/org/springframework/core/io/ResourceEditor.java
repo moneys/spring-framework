@@ -25,6 +25,7 @@ import org.springframework.util.Assert;
 import org.springframework.util.StringUtils;
 
 /**
+ * 资源编辑器
  * {@link java.beans.PropertyEditor Editor} for {@link Resource}
  * descriptors, to automatically convert {@code String} locations
  * e.g. {@code file:C:/myfile.txt} or {@code classpath:myfile.txt} to

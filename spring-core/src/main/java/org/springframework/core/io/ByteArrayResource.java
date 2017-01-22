@@ -22,6 +22,7 @@ import java.io.InputStream;
 import java.util.Arrays;
 
 /**
+ * 字节数组资源
  * {@link Resource} implementation for a given byte array.
  * <p>Creates a {@link ByteArrayInputStream} for the given byte array.
  *

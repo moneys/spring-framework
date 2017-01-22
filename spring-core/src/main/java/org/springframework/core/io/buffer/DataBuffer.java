@@ -22,6 +22,7 @@ import java.nio.ByteBuffer;
 import java.util.function.IntPredicate;
 
 /**
+ * 数据缓冲区接口
  * Basic abstraction over byte buffers.
  *
  * @author Arjen Poutsma

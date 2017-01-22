@@ -20,6 +20,7 @@ import org.springframework.core.io.ResourceLoader;
 import org.springframework.util.ResourceUtils;
 
 /**
+ * 属性路径工具
  * Utility class for determining whether a given URL is a resource
  * location that can be loaded via a {@link ResourcePatternResolver}.
  *

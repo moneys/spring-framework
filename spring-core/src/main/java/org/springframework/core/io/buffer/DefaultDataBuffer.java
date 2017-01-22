@@ -29,6 +29,7 @@ import org.springframework.util.Assert;
 import org.springframework.util.ObjectUtils;
 
 /**
+ * 默认的数据缓冲区实现
  * Default implementation of the {@link DataBuffer} interface that uses a {@link
  * ByteBuffer} internally, with separate read and write positions. Constructed
  * using the {@link DefaultDataBufferFactory}.

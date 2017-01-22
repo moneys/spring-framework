@@ -17,6 +17,7 @@
 package org.springframework.core.env;
 
 /**
+ * 简单的命令行参数解析器
  * Parses a {@code String[]} of command line arguments in order to populate a
  * {@link CommandLineArgs} object.
  *

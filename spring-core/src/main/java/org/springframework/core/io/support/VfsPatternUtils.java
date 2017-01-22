@@ -24,6 +24,7 @@ import java.net.URL;
 import org.springframework.core.io.VfsUtils;
 
 /**
+ * 虚拟文件系统路径工具
  * Artificial class used for accessing the {@link VfsUtils} methods
  * without exposing them to the entire world.
  *

@@ -21,6 +21,7 @@ import java.io.IOException;
 import org.springframework.core.env.PropertySource;
 
 /**
+ * 属性源工厂接口
  * Strategy interface for creating resource-based {@link PropertySource} wrappers.
  *
  * @author Juergen Hoeller

@@ -32,6 +32,7 @@ import org.springframework.util.PropertiesPersister;
 import org.springframework.util.ResourceUtils;
 
 /**
+ * 属性加载工具
  * Convenient utility methods for loading of {@code java.util.Properties},
  * performing standard handling of input streams.
  *

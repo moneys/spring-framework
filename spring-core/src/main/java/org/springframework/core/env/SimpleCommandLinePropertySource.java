@@ -19,6 +19,7 @@ package org.springframework.core.env;
 import java.util.List;
 
 /**
+ * 简单的命令行属性源
  * {@link CommandLinePropertySource} implementation backed by a simple String array.
  *
  * <h3>Purpose</h3>

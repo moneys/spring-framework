@@ -32,6 +32,7 @@ import reactor.core.publisher.SynchronousSink;
 import org.springframework.util.Assert;
 
 /**
+ * 数据缓冲区工具
  * Utility class for working with {@link DataBuffer}s.
  *
  * @author Arjen Poutsma

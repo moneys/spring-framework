@@ -33,6 +33,7 @@ import java.nio.file.StandardOpenOption;
 import org.springframework.util.Assert;
 
 /**
+ * 路径资源
  * {@link Resource} implementation for {@code java.nio.file.Path} handles.
  * Supports resolution as File, and also as URL.
  * Implements the extended {@link WritableResource} interface.

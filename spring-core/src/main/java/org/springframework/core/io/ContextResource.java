@@ -17,6 +17,7 @@
 package org.springframework.core.io;
 
 /**
+ * 上下文资源
  * Extended interface for a resource that is loaded from an enclosing
  * 'context', e.g. from a {@link javax.servlet.ServletContext} but also
  * from plain classpath paths or relative file system paths (specified

@@ -32,6 +32,7 @@ import org.springframework.util.Assert;
 import org.springframework.util.ObjectUtils;
 
 /**
+ * Netty 数据缓存区池实现
  * Implementation of the {@code DataBuffer} interface that wraps a Netty
  * {@link ByteBuf}. Typically constructed with {@link NettyDataBufferFactory}.
  *

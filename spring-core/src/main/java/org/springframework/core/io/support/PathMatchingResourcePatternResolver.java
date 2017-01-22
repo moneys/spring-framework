@@ -53,6 +53,7 @@ import org.springframework.util.ResourceUtils;
 import org.springframework.util.StringUtils;
 
 /**
+ * 路径匹配资源模式解析器
  * A {@link ResourcePatternResolver} implementation that is able to resolve a
  * specified resource location path into one or more matching Resources.
  * The source path may be a simple path which has a one-to-one mapping to a

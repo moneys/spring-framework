@@ -20,6 +20,7 @@ import java.util.Map;
 import java.util.Properties;
 
 /**
+ * 属性源
  * {@link PropertySource} implementation that extracts properties from a
  * {@link java.util.Properties} object.
  *

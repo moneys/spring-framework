@@ -25,6 +25,7 @@ import java.nio.channels.Channels;
 import java.nio.channels.ReadableByteChannel;
 
 /**
+ * 资源接口
  * Interface for a resource descriptor that abstracts from the actual
  * type of underlying resource, such as a file or class path resource.
  *

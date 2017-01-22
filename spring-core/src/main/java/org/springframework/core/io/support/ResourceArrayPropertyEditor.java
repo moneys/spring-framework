@@ -33,6 +33,7 @@ import org.springframework.core.io.Resource;
 import org.springframework.util.Assert;
 
 /**
+ * 源数组属性编辑
  * Editor for {@link org.springframework.core.io.Resource} arrays, to
  * automatically convert {@code String} location patterns
  * (e.g. {@code "file:C:/my*.txt"} or {@code "classpath*:myfile.txt"})

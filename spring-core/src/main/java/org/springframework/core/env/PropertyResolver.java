@@ -17,6 +17,7 @@
 package org.springframework.core.env;
 
 /**
+ * 属性解析接口
  * Interface for resolving properties against any underlying source.
  *
  * @author Chris Beams

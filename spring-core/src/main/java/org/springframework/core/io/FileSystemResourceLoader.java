@@ -17,6 +17,7 @@
 package org.springframework.core.io;
 
 /**
+ * 文件系统资源加载器
  * {@link ResourceLoader} implementation that resolves plain paths as
  * file system resources rather than as class path resources
  * (the latter is {@link DefaultResourceLoader}'s default strategy).

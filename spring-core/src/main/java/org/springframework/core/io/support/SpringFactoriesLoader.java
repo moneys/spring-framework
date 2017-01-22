@@ -35,6 +35,7 @@ import org.springframework.util.ReflectionUtils;
 import org.springframework.util.StringUtils;
 
 /**
+ * Spring工厂加载接口
  * General purpose factory loading mechanism for internal use within the framework.
  *
  * <p>{@code SpringFactoriesLoader} {@linkplain #loadFactories loads} and instantiates

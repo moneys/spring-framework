@@ -21,6 +21,7 @@ import java.io.IOException;
 import org.springframework.core.env.PropertySource;
 
 /**
+ * 默认的属性源工厂
  * The default implementation for {@link PropertySourceFactory},
  * wrapping every resource in a {@link ResourcePropertySource}.
  *

@@ -26,6 +26,7 @@ import org.springframework.core.io.Resource;
 import org.springframework.util.StringUtils;
 
 /**
+ * 资源属性源
  * Subclass of {@link PropertiesPropertySource} that loads a {@link Properties} object
  * from a given {@link org.springframework.core.io.Resource} or resource location such as
  * {@code "classpath:/com/myco/foo.properties"} or {@code "file:/path/to/file.xml"}.

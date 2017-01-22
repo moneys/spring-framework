@@ -26,6 +26,7 @@ import java.util.Set;
 import org.springframework.util.StringUtils;
 
 /**
+ * 符合属性源
  * Composite {@link PropertySource} implementation that iterates over a set of
  * {@link PropertySource} instances. Necessary in cases where multiple property sources
  * share the same name, e.g. when multiple values are supplied to {@code @PropertySource}.

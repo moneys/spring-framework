@@ -19,6 +19,7 @@ package org.springframework.core.io.buffer;
 import java.nio.ByteBuffer;
 
 /**
+ * 数据缓冲区工厂接口
  * A factory for {@link DataBuffer}s,allowing for allocation and wrapping of
  * data buffers.
  *

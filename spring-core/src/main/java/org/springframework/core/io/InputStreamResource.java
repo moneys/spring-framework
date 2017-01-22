@@ -22,6 +22,7 @@ import java.io.InputStream;
 import org.springframework.util.Assert;
 
 /**
+ * 输入流资源
  * {@link Resource} implementation for a given {@link InputStream}.
  * <p>Should only be used if no other specific {@code Resource} implementation
  * is applicable. In particular, prefer {@link ByteArrayResource} or any of the

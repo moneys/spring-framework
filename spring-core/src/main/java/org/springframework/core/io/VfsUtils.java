@@ -28,6 +28,7 @@ import java.net.URL;
 import org.springframework.util.ReflectionUtils;
 
 /**
+ * 虚拟文件工具类
  * Utility for detecting and accessing JBoss VFS in the classpath.
  *
  * <p>As of Spring 4.0, this class supports VFS 3.x on JBoss AS 6+ (package

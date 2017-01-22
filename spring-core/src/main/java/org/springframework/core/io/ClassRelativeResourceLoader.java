@@ -20,6 +20,7 @@ import org.springframework.util.Assert;
 import org.springframework.util.StringUtils;
 
 /**
+ * 类相对资源加载器
  * {@link ResourceLoader} implementation that interprets plain resource paths
  * as relative to a given {@code java.lang.Class}.
  *

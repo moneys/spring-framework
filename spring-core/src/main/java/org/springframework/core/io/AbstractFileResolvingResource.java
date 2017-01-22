@@ -29,6 +29,7 @@ import java.nio.channels.ReadableByteChannel;
 import org.springframework.util.ResourceUtils;
 
 /**
+ * 抽象的文件解析资源
  * Abstract base class for resources which resolve URLs into File references,
  * such as {@link UrlResource} or {@link ClassPathResource}.
  *

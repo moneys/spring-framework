@@ -21,6 +21,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
+ * 描述性资源
  * Simple {@link Resource} implementation that holds a resource description
  * but does not point to an actually readable resource.
  *

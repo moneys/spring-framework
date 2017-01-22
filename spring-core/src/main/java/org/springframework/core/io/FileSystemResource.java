@@ -30,6 +30,7 @@ import org.springframework.util.Assert;
 import org.springframework.util.StringUtils;
 
 /**
+ * 文件系统资源
  * {@link Resource} implementation for {@code java.io.File} handles.
  * Supports resolution as a {@code File} and also as a {@code URL}.
  * Implements the extended {@link WritableResource} interface.

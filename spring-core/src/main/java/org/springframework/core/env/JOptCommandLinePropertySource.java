@@ -26,6 +26,7 @@ import joptsimple.OptionSpec;
 import org.springframework.util.Assert;
 
 /**
+ * 命令行属性源
  * {@link CommandLinePropertySource} implementation backed by a JOpt {@link OptionSet}.
  *
  * <h2>Typical usage</h2>

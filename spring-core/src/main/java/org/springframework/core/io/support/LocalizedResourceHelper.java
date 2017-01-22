@@ -24,6 +24,7 @@ import org.springframework.core.io.ResourceLoader;
 import org.springframework.util.Assert;
 
 /**
+ * 本地资源辅助
  * Helper class for loading a localized resource,
  * specified through name, extension and current locale.
  *

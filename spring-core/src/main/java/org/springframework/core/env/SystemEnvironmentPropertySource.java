@@ -21,6 +21,7 @@ import java.util.Map;
 import org.springframework.util.Assert;
 
 /**
+ * 标准环境属性源
  * Specialization of {@link MapPropertySource} designed for use with
  * {@linkplain AbstractEnvironment#getSystemEnvironment() system environment variables}.
  * Compensates for constraints in Bash and other shells that do not allow for variables

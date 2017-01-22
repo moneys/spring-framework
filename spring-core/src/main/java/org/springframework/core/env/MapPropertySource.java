@@ -21,6 +21,7 @@ import java.util.Map;
 import org.springframework.util.StringUtils;
 
 /**
+ * Map属性源
  * {@link PropertySource} that reads keys and values from a {@code Map} object.
  *
  * @author Chris Beams

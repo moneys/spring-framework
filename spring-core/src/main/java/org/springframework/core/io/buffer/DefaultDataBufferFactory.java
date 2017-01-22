@@ -21,6 +21,7 @@ import java.nio.ByteBuffer;
 import org.springframework.util.Assert;
 
 /**
+ * 默认的数据缓冲区工厂
  * Default implementation of the {@code DataBufferFactory} interface. Allows for
  * specification of the default initial capacity at construction time, as well
  * as whether heap-based or direct buffers are to be preferred.

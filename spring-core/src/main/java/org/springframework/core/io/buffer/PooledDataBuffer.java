@@ -17,6 +17,7 @@
 package org.springframework.core.io.buffer;
 
 /**
+ * 缓冲池接口
  * Extension of {@link DataBuffer} that allows for buffer that share a memory
  * pool. Introduces methods for reference counting.
  *

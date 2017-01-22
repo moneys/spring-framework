@@ -17,6 +17,7 @@
 package org.springframework.core.env;
 
 /**
+ * 多个属性来源接口
  * Holder containing one or more {@link PropertySource} objects.
  *
  * @author Chris Beams
