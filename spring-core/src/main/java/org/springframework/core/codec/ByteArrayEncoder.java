@@ -28,6 +28,7 @@ import org.springframework.util.MimeType;
 import org.springframework.util.MimeTypeUtils;
 
 /**
+ * 字节数组编码器
  * Encoder for {@code byte} arrays.
  *
  * @author Arjen Poutsma

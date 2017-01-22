@@ -22,6 +22,7 @@ import java.util.Set;
 import org.springframework.core.convert.converter.Converter;
 
 /**
+ * 字符串到布尔值转换器
  * Converts String to a Boolean.
  *
  * @author Keith Donald

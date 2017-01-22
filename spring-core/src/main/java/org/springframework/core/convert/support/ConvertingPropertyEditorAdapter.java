@@ -23,6 +23,7 @@ import org.springframework.core.convert.TypeDescriptor;
 import org.springframework.util.Assert;
 
 /**
+ * 转换属性编辑适配器 ？？
  * Adapter that exposes a {@link java.beans.PropertyEditor} for any given
  * {@link org.springframework.core.convert.ConversionService} and specific target type.
  *

@@ -22,6 +22,7 @@ import org.springframework.core.convert.converter.Converter;
 import org.springframework.util.StringUtils;
 
 /**
+ * 字符串到时区
  * Convert a String to a {@link TimeZone}.
  *
  * @author Stephane Nicoll

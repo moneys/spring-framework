@@ -28,6 +28,7 @@ import org.springframework.util.ClassUtils;
 import org.springframework.util.ReflectionUtils;
 
 /**
+ * 标识到主题转换器
  * Converts an entity identifier to a entity reference by calling a static finder method
  * on the target entity type.
  *

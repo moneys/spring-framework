@@ -25,6 +25,7 @@ import org.springframework.core.convert.TypeDescriptor;
 import org.springframework.core.convert.converter.ConditionalGenericConverter;
 
 /**
+ * 集合到字符串转换器
  * Converts a Collection to a comma-delimited String.
  *
  * @author Keith Donald

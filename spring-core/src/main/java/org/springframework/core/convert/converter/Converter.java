@@ -17,6 +17,7 @@
 package org.springframework.core.convert.converter;
 
 /**
+ * 转换器接口
  * A converter converts a source object of type {@code S} to a target of type {@code T}.
  *
  * <p>Implementations of this interface are thread-safe and can be shared.

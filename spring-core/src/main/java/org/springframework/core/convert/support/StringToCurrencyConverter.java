@@ -21,6 +21,7 @@ import java.util.Currency;
 import org.springframework.core.convert.converter.Converter;
 
 /**
+ * 字符串到货币
  * Convert a String to a {@link Currency}.
  *
  * @author Stephane Nicoll

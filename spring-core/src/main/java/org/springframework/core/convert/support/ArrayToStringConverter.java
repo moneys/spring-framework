@@ -26,6 +26,7 @@ import org.springframework.core.convert.converter.ConditionalGenericConverter;
 import org.springframework.util.ObjectUtils;
 
 /**
+ * 数组到字符串转换器
  * Converts an array to a comma-delimited String. First adapts the source array
  * to a List, then delegates to {@link CollectionToStringConverter} to perform
  * the target String conversion.

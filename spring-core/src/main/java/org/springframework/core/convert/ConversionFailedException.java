@@ -19,6 +19,7 @@ package org.springframework.core.convert;
 import org.springframework.util.ObjectUtils;
 
 /**
+ * 转换失败异常
  * Exception to be thrown when an actual type conversion attempt fails.
  *
  * @author Keith Donald

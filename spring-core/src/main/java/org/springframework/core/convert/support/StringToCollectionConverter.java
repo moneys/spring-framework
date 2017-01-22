@@ -27,6 +27,7 @@ import org.springframework.core.convert.converter.ConditionalGenericConverter;
 import org.springframework.util.StringUtils;
 
 /**
+ * 字符串到集合转换器
  * Converts a comma-delimited String to a Collection.
  * If the target collection element type is declared, only matches if
  * {@code String.class} can be converted to it.

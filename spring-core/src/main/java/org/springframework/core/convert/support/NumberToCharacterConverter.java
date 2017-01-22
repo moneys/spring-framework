@@ -19,6 +19,7 @@ package org.springframework.core.convert.support;
 import org.springframework.core.convert.converter.Converter;
 
 /**
+ * 转换数字到字符
  * Converts from any JDK-standard Number implementation to a Character.
  *
  * @author Keith Donald

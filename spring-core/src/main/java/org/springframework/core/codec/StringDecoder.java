@@ -35,6 +35,7 @@ import org.springframework.util.MimeType;
 import org.springframework.util.MimeTypeUtils;
 
 /**
+ * 字符串解码器
  * Decode from a bytes stream to a {@code String} stream.
  *
  * <p>By default, this decoder will split the received {@link DataBuffer}s

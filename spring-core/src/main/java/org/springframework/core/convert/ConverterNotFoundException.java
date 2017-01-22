@@ -17,6 +17,7 @@
 package org.springframework.core.convert;
 
 /**
+ * 转换器未知异常
  * Exception to be thrown when a suitable converter could not be found
  * in a given conversion service.
  *

@@ -24,6 +24,7 @@ import org.springframework.util.Assert;
 import org.springframework.util.comparator.ComparableComparator;
 
 /**
+ * 类型转换比较器，从两个不同类型拉到同一维度比较
  * A {@link Comparator} that converts values before they are compared. The specified
  * {@link Converter} will be used to convert each value before it passed to the underlying
  * {@code Comparator}.

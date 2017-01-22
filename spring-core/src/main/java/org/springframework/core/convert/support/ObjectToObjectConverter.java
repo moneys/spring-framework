@@ -33,6 +33,7 @@ import org.springframework.util.ConcurrentReferenceHashMap;
 import org.springframework.util.ReflectionUtils;
 
 /**
+ * 对象转对象
  * Generic converter that uses conventions to convert a source object to a
  * {@code targetType} by delegating to a method on the source object or to
  * a static factory method or constructor on the {@code targetType}.

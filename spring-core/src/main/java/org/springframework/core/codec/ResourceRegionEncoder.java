@@ -40,6 +40,7 @@ import org.springframework.util.MimeTypeUtils;
 import org.springframework.util.StreamUtils;
 
 /**
+ * 原生资源编码器
  * Encoder for {@link ResourceRegion}s.
  *
  * @author Brian Clozel

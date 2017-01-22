@@ -24,6 +24,7 @@ import org.springframework.core.convert.TypeDescriptor;
 import org.springframework.core.convert.converter.ConditionalGenericConverter;
 
 /**
+ * 回退对象转字符串
  * Simply calls {@link Object#toString()} to convert any supported object
  * to a {@link String}.
  *

@@ -20,6 +20,7 @@ import org.springframework.core.convert.ConversionService;
 import org.springframework.core.convert.converter.ConverterRegistry;
 
 /**
+ * 转化器及转换策略接口
  * Configuration interface to be implemented by most if not all {@link ConversionService}
  * types. Consolidates the read-only operations exposed by {@link ConversionService} and
  * the mutating operations of {@link ConverterRegistry} to allow for convenient ad-hoc

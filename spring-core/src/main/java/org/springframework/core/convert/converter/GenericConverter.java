@@ -22,6 +22,7 @@ import org.springframework.core.convert.TypeDescriptor;
 import org.springframework.util.Assert;
 
 /**
+ * 转换器接口
  * Generic converter interface for converting between two or more types.
  *
  * <p>This is the most flexible of the Converter SPI interfaces, but also the most complex.

@@ -28,6 +28,7 @@ import org.springframework.core.io.buffer.DataBuffer;
 import org.springframework.util.MimeType;
 
 /**
+ * 解码器接口
  * Strategy for decoding a {@link DataBuffer} input stream into an output stream
  * of elements of type {@code <T>}.
  *

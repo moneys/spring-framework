@@ -23,6 +23,7 @@ import org.springframework.core.convert.converter.GenericConverter;
 import org.springframework.util.Assert;
 
 /**
+ * 转换工具
  * Internal utilities for the conversion package.
  *
  * @author Keith Donald

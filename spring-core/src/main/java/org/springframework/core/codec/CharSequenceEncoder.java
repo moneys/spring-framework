@@ -31,6 +31,7 @@ import org.springframework.core.io.buffer.DataBufferFactory;
 import org.springframework.util.MimeType;
 
 /**
+ * 字符串编码器
  * Encode from a {@code CharSequence} stream to a bytes stream.
  *
  * @author Sebastien Deleuze

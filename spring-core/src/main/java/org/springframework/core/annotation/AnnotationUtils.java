@@ -45,6 +45,7 @@ import org.springframework.util.ReflectionUtils;
 import org.springframework.util.StringUtils;
 
 /**
+ * 注解工具类
  * General utility methods for working with annotations, handling meta-annotations,
  * bridge methods (which the compiler generates for generic declarations) as well
  * as super methods (for optional <em>annotation inheritance</em>).

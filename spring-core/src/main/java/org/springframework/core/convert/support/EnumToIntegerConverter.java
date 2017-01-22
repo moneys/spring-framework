@@ -20,6 +20,7 @@ import org.springframework.core.convert.ConversionService;
 import org.springframework.core.convert.converter.Converter;
 
 /**
+ * 枚举到数字转换器
  * Calls {@link Enum#ordinal()} to convert a source Enum to a Integer.
  * This converter will not match enums with interfaces that can be converted.
  *

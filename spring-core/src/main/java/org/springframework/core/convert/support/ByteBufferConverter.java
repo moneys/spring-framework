@@ -27,6 +27,7 @@ import org.springframework.core.convert.TypeDescriptor;
 import org.springframework.core.convert.converter.ConditionalGenericConverter;
 
 /**
+ * 字符转换器
  * Converts a {@link ByteBuffer} directly to and from {@code byte[]}s and indirectly
  * to any type that the {@link ConversionService} support via {@code byte[]}.
  *

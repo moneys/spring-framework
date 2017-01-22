@@ -19,6 +19,7 @@ package org.springframework.core.convert.support;
 import org.springframework.core.convert.converter.Converter;
 
 /**
+ * 转换字符串到字符
  * Converts a String to a Character.
  *
  * @author Keith Donald

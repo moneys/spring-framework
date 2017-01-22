@@ -28,6 +28,7 @@ import org.springframework.core.convert.TypeDescriptor;
 import org.springframework.core.convert.converter.ConditionalGenericConverter;
 
 /**
+ * 流转换器
  * Converts a {@link Stream} to and from a collection or array, converting the
  * element type if necessary.
  *

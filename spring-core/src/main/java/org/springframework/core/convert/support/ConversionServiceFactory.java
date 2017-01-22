@@ -24,6 +24,7 @@ import org.springframework.core.convert.converter.ConverterRegistry;
 import org.springframework.core.convert.converter.GenericConverter;
 
 /**
+ * 转换器工厂
  * A factory for common {@link org.springframework.core.convert.ConversionService}
  * configurations.
  *

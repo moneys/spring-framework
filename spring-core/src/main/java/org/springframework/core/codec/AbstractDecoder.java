@@ -28,6 +28,7 @@ import org.springframework.core.io.buffer.DataBuffer;
 import org.springframework.util.MimeType;
 
 /**
+ * 解码器
  * Abstract base class for {@link Decoder} implementations.
  *
  * @author Sebastien Deleuze

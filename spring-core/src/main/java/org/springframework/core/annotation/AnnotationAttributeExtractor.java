@@ -20,6 +20,7 @@ import java.lang.annotation.Annotation;
 import java.lang.reflect.Method;
 
 /**
+ * 注解属性提取器接口 <br>
  * An {@code AnnotationAttributeExtractor} is responsible for
  * {@linkplain #getAttributeValue extracting} annotation attribute values
  * from an underlying {@linkplain #getSource source} such as an

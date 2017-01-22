@@ -27,6 +27,7 @@ import org.springframework.core.io.buffer.DataBufferFactory;
 import org.springframework.util.MimeType;
 
 /**
+ * 单值解码器 使用 Reactive扩展
  * Abstract base class for {@link org.springframework.core.codec.Encoder}
  * classes that can only deal with a single value.
  *

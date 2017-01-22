@@ -25,6 +25,7 @@ import org.springframework.core.convert.TypeDescriptor;
 import org.springframework.core.convert.converter.ConditionalGenericConverter;
 
 /**
+ * 对象转选项 ？？
  * Convert an Object to {@code java.util.Optional<T>} if necessary using the
  * {@code ConversionService} to convert the source Object to the generic type
  * of Optional when known.

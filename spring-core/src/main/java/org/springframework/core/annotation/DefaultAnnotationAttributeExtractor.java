@@ -22,6 +22,7 @@ import java.lang.reflect.Method;
 import org.springframework.util.ReflectionUtils;
 
 /**
+ * 默认的注解属性提取器
  * Default implementation of the {@link AnnotationAttributeExtractor} strategy
  * that is backed by an {@link Annotation}.
  *

@@ -24,6 +24,7 @@ import org.springframework.core.ResolvableType;
 import org.springframework.util.MimeType;
 
 /**
+ * 编码器
  * Abstract base class for {@link Decoder} implementations.
  *
  * @author Sebastien Deleuze

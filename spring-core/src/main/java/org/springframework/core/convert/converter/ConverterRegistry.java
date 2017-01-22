@@ -17,6 +17,7 @@
 package org.springframework.core.convert.converter;
 
 /**
+ * 转换策略接口
  * For registering converters with a type conversion system.
  *
  * @author Keith Donald

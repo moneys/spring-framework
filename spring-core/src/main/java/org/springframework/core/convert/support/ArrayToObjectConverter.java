@@ -25,6 +25,7 @@ import org.springframework.core.convert.TypeDescriptor;
 import org.springframework.core.convert.converter.ConditionalGenericConverter;
 
 /**
+ * 数组到对象转换器
  * Converts an array to an Object by returning the first array element
  * after converting it to the desired target type.
  *

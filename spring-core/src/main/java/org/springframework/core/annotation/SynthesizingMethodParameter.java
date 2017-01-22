@@ -25,6 +25,7 @@ import java.lang.reflect.Parameter;
 import org.springframework.core.MethodParameter;
 
 /**
+ * 合成方法参数封装
  * A {@link MethodParameter} variant which synthesizes annotations that
  * declare attribute aliases via {@link AliasFor @AliasFor}.
  *

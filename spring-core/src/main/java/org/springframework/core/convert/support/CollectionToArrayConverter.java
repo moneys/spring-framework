@@ -26,6 +26,7 @@ import org.springframework.core.convert.TypeDescriptor;
 import org.springframework.core.convert.converter.ConditionalGenericConverter;
 
 /**
+ * 集合到数组转换器
  * Converts a Collection to an array.
  *
  * <p>First, creates a new array of the requested targetType with a length equal to the

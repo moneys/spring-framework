@@ -29,6 +29,7 @@ import org.springframework.core.io.buffer.DataBufferFactory;
 import org.springframework.util.MimeType;
 
 /**
+ * 编码器接口
  * Strategy to encode a stream of Objects of type {@code <T>} into an output
  * stream of bytes.
  *

@@ -17,6 +17,7 @@
 package org.springframework.core;
 
 /**
+ * 运行时异常包装
  * Handy class for wrapping runtime {@code Exceptions} with a root cause.
  *
  * <p>This class is {@code abstract} to force the programmer to extend

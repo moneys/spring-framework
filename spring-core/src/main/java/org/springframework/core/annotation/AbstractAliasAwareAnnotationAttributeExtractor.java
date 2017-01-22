@@ -25,6 +25,7 @@ import org.springframework.util.Assert;
 import org.springframework.util.ObjectUtils;
 
 /**
+ * 针对别名注解的提取器 <br>
  * Abstract base class for {@link AnnotationAttributeExtractor} implementations
  * that transparently enforce attribute alias semantics for annotation
  * attributes that are annotated with {@link AliasFor @AliasFor}.

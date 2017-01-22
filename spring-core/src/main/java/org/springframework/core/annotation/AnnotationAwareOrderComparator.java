@@ -26,6 +26,7 @@ import org.springframework.core.DecoratingProxy;
 import org.springframework.core.OrderComparator;
 
 /**
+ * 注解比较器 根据Order注解的值排序
  * {@code AnnotationAwareOrderComparator} is an extension of
  * {@link OrderComparator} that supports Spring's
  * {@link org.springframework.core.Ordered} interface as well as the

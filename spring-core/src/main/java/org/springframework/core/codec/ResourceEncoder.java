@@ -33,6 +33,7 @@ import org.springframework.util.MimeTypeUtils;
 import org.springframework.util.StreamUtils;
 
 /**
+ * 资源编码器
  * Encoder for {@link Resource}s.
  *
  * @author Arjen Poutsma

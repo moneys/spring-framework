@@ -33,6 +33,7 @@ import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
 
 /**
+ * 注解元素工具类
  * General utility methods for finding annotations, meta-annotations, and
  * repeatable annotations on {@link AnnotatedElement AnnotatedElements}.
  *

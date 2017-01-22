@@ -28,6 +28,7 @@ import org.springframework.core.convert.TypeDescriptor;
 import org.springframework.core.convert.converter.ConditionalGenericConverter;
 
 /**
+ * map转换器
  * Converts a Map to another Map.
  *
  * <p>First, creates a new Map of the requested targetType with a size equal to the

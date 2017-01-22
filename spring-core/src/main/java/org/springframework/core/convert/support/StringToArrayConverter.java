@@ -26,6 +26,7 @@ import org.springframework.core.convert.converter.ConditionalGenericConverter;
 import org.springframework.util.StringUtils;
 
 /**
+ * 字符串到数组转换器
  * Converts a comma-delimited String to an Array.
  * Only matches if String.class can be converted to the target array element type.
  *

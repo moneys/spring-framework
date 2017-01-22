@@ -19,6 +19,7 @@ package org.springframework.core.codec;
 import org.springframework.core.NestedRuntimeException;
 
 /**
+ * 编码异常
  * Codec related exception, usually used as a wrapper for a cause exception.
  *
  * @author Sebastien Deleuze

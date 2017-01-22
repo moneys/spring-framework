@@ -31,6 +31,7 @@ import org.springframework.util.ReflectionUtils;
 import org.springframework.util.StringUtils;
 
 /**
+ * 合成注解调用处理器
  * {@link InvocationHandler} for an {@link Annotation} that Spring has
  * <em>synthesized</em> (i.e., wrapped in a dynamic proxy) with additional
  * functionality.

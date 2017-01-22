@@ -31,6 +31,7 @@ import org.springframework.util.ReflectionUtils;
 import org.springframework.util.StringUtils;
 
 /**
+ * 属性 对JavaBeans的属性描述
  * A description of a JavaBeans Property that allows us to avoid a dependency on
  * {@code java.beans.PropertyDescriptor}. The {@code java.beans} package
  * is not available in a number of environments (e.g. Android, Java ME), so this is

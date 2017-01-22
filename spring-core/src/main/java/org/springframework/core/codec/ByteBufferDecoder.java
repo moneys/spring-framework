@@ -29,6 +29,7 @@ import org.springframework.util.MimeType;
 import org.springframework.util.MimeTypeUtils;
 
 /**
+ * 字节缓冲区解码器
  * Decoder for {@link ByteBuffer}s.
  *
  * @author Sebastien Deleuze

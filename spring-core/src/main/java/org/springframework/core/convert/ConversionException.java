@@ -19,6 +19,7 @@ package org.springframework.core.convert;
 import org.springframework.core.NestedRuntimeException;
 
 /**
+ * 转换异常
  * Base class for exceptions thrown by the conversion system.
  *
  * @author Keith Donald

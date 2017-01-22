@@ -26,6 +26,7 @@ import org.springframework.core.convert.TypeDescriptor;
 import org.springframework.core.convert.converter.ConditionalGenericConverter;
 
 /**
+ * 对象转集合
  * Converts an Object to a single-element Collection containing the Object.
  * Will convert the Object to the target Collection's parameterized type if necessary.
  *

@@ -17,6 +17,7 @@
 package org.springframework.core.convert.converter;
 
 /**
+ * 获取转换器的工厂
  * A factory for "ranged" converters that can convert objects from S to subtypes of R.
  *
  * <p>Implementations may additionally implement {@link ConditionalConverter}.

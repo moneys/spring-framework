@@ -27,6 +27,7 @@ import org.springframework.core.convert.converter.ConditionalGenericConverter;
 import org.springframework.util.ObjectUtils;
 
 /**
+ * 数组到数组的转换器
  * Converts an array to another array. First adapts the source array to a List,
  * then delegates to {@link CollectionToArrayConverter} to perform the target
  * array conversion.

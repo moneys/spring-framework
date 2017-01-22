@@ -25,6 +25,7 @@ import org.springframework.core.convert.TypeDescriptor;
 import org.springframework.core.convert.converter.ConditionalGenericConverter;
 
 /**
+ * 对象转数组
  * Converts an Object to a single-element array containing the Object.
  * Will convert the Object to the target array's component type if necessary.
  *
