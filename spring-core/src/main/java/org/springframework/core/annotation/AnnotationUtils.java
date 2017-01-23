@@ -1553,6 +1553,7 @@ public abstract class AnnotationUtils {
 	}
 
 	/**
+     * 获取注解属性为key，别名属性为value的map
 	 * Get a map of all attribute aliases declared via {@code @AliasFor}
 	 * in the supplied annotation type.
 	 * <p>The map is keyed by attribute name with each value representing

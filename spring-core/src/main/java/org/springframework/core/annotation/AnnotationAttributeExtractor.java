@@ -52,6 +52,7 @@ interface AnnotationAttributeExtractor<S> {
 	S getSource();
 
 	/**
+     * 从方法的注解中获取属性值
 	 * Get the attribute value from the underlying {@linkplain #getSource source}
 	 * that corresponds to the supplied attribute method.
 	 * @param attributeMethod an attribute method from the annotation type

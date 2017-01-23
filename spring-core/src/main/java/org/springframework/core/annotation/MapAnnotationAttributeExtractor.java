@@ -28,7 +28,8 @@ import org.springframework.util.Assert;
 import org.springframework.util.ClassUtils;
 
 /**
- * 针对别名注解是属性提取器实现 可返回map
+ * 针对别名注解是属性提取器实现
+ * 与默认的注解属性提取器相比，使用属性map构造
  * Implementation of the {@link AnnotationAttributeExtractor} strategy that
  * is backed by a {@link Map}.
  *

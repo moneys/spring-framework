@@ -39,21 +39,22 @@ import org.springframework.util.ObjectUtils;
  */
 abstract class AbstractAliasAwareAnnotationAttributeExtractor<S> implements AnnotationAttributeExtractor<S> {
 
+    // 注解类型
 	private final Class<? extends Annotation> annotationType;
-
+    // 被注解元素
 	private final Object annotatedElement;
-
+    // 注解 or 注解属性对应别名属性的map 视实现而定
 	private final S source;
-
+    // 注解属性对应别名属性的map
 	private final Map<String, List<String>> attributeAliasMap;
 
 
 	/**
 	 * Construct a new {@code AbstractAliasAwareAnnotationAttributeExtractor}.
-	 * @param annotationType the annotation type to synthesize; never {@code null}
-	 * @param annotatedElement the element that is annotated with the annotation
+	 * @param annotationType the annotation type to synthesize; never {@code null} 注解类型
+	 * @param annotatedElement the element that is annotated with the annotation 被注解的元素
 	 * of the supplied type; may be {@code null} if unknown
-	 * @param source the underlying source of annotation attributes; never {@code null}
+	 * @param source the underlying source of annotation attributes; never {@code null} 注解
 	 */
 	AbstractAliasAwareAnnotationAttributeExtractor(
 			Class<? extends Annotation> annotationType, Object annotatedElement, S source) {

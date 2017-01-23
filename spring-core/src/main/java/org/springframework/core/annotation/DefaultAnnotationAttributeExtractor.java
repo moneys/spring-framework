@@ -37,6 +37,7 @@ import org.springframework.util.ReflectionUtils;
 class DefaultAnnotationAttributeExtractor extends AbstractAliasAwareAnnotationAttributeExtractor<Annotation> {
 
 	/**
+     * 注解和带注解的元素
 	 * Construct a new {@code DefaultAnnotationAttributeExtractor}.
 	 * @param annotation the annotation to synthesize; never {@code null}
 	 * @param annotatedElement the element that is annotated with the supplied
