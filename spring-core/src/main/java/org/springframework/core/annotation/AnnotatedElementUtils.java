@@ -137,15 +137,16 @@ public class AnnotatedElementUtils {
 	}
 
 	/**
+     * 获取注解类型集合
 	 * Get the fully qualified class names of all meta-annotation types
 	 * <em>present</em> on the annotation (of the specified {@code annotationType})
 	 * on the supplied {@link AnnotatedElement}.
 	 * <p>This method follows <em>get semantics</em> as described in the
 	 * {@linkplain AnnotatedElementUtils class-level javadoc}.
-	 * @param element the annotated element
-	 * @param annotationType the annotation type on which to find meta-annotations
+	 * @param element the annotated element 被注解类
+	 * @param annotationType the annotation type on which to find meta-annotations  注解类型
 	 * @return the names of all meta-annotations present on the annotation,
-	 * or {@code null} if not found
+	 * or {@code null} if not found    注解类型集合
 	 * @since 4.2
 	 * @see #getMetaAnnotationTypes(AnnotatedElement, String)
 	 * @see #hasMetaAnnotationTypes
